@@ -11,3 +11,4 @@ Organize by Topic: Structure your notes using bullet points or numbered lists fo
 1
 
 These strategies will help you create concise and effective notes for better retention and understanding.
+I am leaning github version Control.
